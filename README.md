@@ -7,6 +7,7 @@
 **2026-11-06 기준:** Figma 전체 시스템 워크플로우 v1.4와 개발·디자인 협업 상세 기획 v0.1을 작성했습니다. 현재는 기획·화면 시안 단계이며, Unity 구현과 실기기 검증은 다음 단계입니다.
 
 - [진행상황 상세 보고서 — 완료 범위·검토할 제안값·다음 개발 순서](docs/progress/2026-11-06-planning-status.md)
+- [A01 공간·캐릭터 콘셉트 — 공방과 핵심 인물 3종 / 검토용](docs/art/concepts/a01/README.md)
 - [Figma 협업 시작점 — 상세 기획 8개와 화면·맵 시안](https://www.figma.com/design/GUBBsgjCI1Fb8SEq9aonvi?node-id=40-100)
 - [Figma 전체 시스템 워크플로우](https://www.figma.com/design/GUBBsgjCI1Fb8SEq9aonvi?node-id=3-3)
 - [Figma 60맵 레벨 기획](https://www.figma.com/design/GUBBsgjCI1Fb8SEq9aonvi?node-id=16-3)
