@@ -1,0 +1,126 @@
+{
+  "purpose": "A03 temporary synthesized feedback references; replace with final Foley/music before release",
+  "sampleRate": 44100,
+  "license": "Original procedural synthesis for Royal-tailor",
+  "assets": {
+    "ui_press": {
+      "file": "ui_press.wav",
+      "durationSeconds": 0.08,
+      "peak": 0.2208
+    },
+    "cloth_pick": {
+      "file": "cloth_pick.wav",
+      "durationSeconds": 0.18,
+      "peak": 0.0949
+    },
+    "cut": {
+      "file": "cut.wav",
+      "durationSeconds": 0.15,
+      "peak": 0.2288
+    },
+    "sew_loop": {
+      "file": "sew_loop.wav",
+      "durationSeconds": 0.3,
+      "peak": 0.0603
+    },
+    "deliver": {
+      "file": "deliver.wav",
+      "durationSeconds": 0.65,
+      "peak": 0.2208
+    },
+    "star_1": {
+      "file": "star_1.wav",
+      "durationSeconds": 0.28,
+      "peak": 0.2726
+    },
+    "star_2": {
+      "file": "star_2.wav",
+      "durationSeconds": 0.28,
+      "peak": 0.2781
+    },
+    "star_3": {
+      "file": "star_3.wav",
+      "durationSeconds": 0.28,
+      "peak": 0.2837
+    },
+    "coins": {
+      "file": "coins.wav",
+      "durationSeconds": 0.5,
+      "peak": 0.1056
+    },
+    "unlock": {
+      "file": "unlock.wav",
+      "durationSeconds": 0.62,
+      "peak": 0.1922
+    },
+    "warning": {
+      "file": "warning.wav",
+      "durationSeconds": 0.1,
+      "peak": 0.117
+    },
+    "fail": {
+      "file": "fail.wav",
+      "durationSeconds": 0.6,
+      "peak": 0.1265
+    },
+    "countdown": {
+      "file": "countdown.wav",
+      "durationSeconds": 0.12,
+      "peak": 0.1275
+    },
+    "go": {
+      "file": "go.wav",
+      "durationSeconds": 0.3,
+      "peak": 0.1584
+    },
+    "loading_swish": {
+      "file": "loading_swish.wav",
+      "durationSeconds": 0.3,
+      "peak": 0.0686
+    },
+    "bgm_workshop_loop": {
+      "file": "bgm_workshop_loop.wav",
+      "durationSeconds": 5.217,
+      "peak": 0.0598
+    }
+  },
+  "reviewMix": {
+    "file": "delivery_reward_mix.wav",
+    "durationSeconds": 5.2,
+    "peak": 0.2955
+  },
+  "reviewEvents": [
+    {
+      "time": 0.04,
+      "cue": "deliver"
+    },
+    {
+      "time": 0.4,
+      "cue": "ui_press"
+    },
+    {
+      "time": 2.0,
+      "cue": "loading_swish"
+    },
+    {
+      "time": 2.25,
+      "cue": "star_1"
+    },
+    {
+      "time": 2.49,
+      "cue": "star_2"
+    },
+    {
+      "time": 2.73,
+      "cue": "star_3"
+    },
+    {
+      "time": 2.95,
+      "cue": "coins"
+    },
+    {
+      "time": 3.6,
+      "cue": "unlock"
+    }
+  ]
+}
